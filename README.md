@@ -21,4 +21,6 @@ Live Demo
 (https://meeting-iq-eo7txddxc-sumukhipandey22-3880s-projects.vercel.app)
 
 GitHub
-[Your GitHub repository]
+(https://github.com/Sumukhi90/MeetingIQ-AI)
+
+
